@@ -15,7 +15,7 @@ Dataset: The CIFAR-10 dataset‚ which has 60000 colored images of 32x32 resolut
 Framework Used: PyTorch‚ Torchvision‚ and Google Colab (T4 GPU Accelerated)
 
 
-Model Architecture and Training
+# Model Architecture and Training
 
 
 Architecture: ResNet18 with pre-trained weights
@@ -27,9 +27,9 @@ Augmentation Technique: To augment the model‚ RandomCrop (size=32 and padding=
 As for the models‚ a Batch Size of 64‚ the optimal number of epochs‚ Cross-Entropy Loss‚ and Adam/SGD optimizer were used․
 
 
-Results and Assessment
+# Results and Assessment
 
-Final assessment value achieved in testing: 82.00% calculated based on 10000 images.
+Final assessment value achieved in testing: 82.45% calculated based on 10000 images.
 
 
 Performance Note: This number proves that the model can be treated as a reliable basis for evaluating undergraduate research practices with regard to its generalization abilities.
