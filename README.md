@@ -29,7 +29,7 @@ As for the models‚ a Batch Size of 64‚ the optimal number of epochs‚ Cross
 
 # Results and Assessment : 82.45%
 
-Final assessment value achieved in testing: 82.45% calculated based on 10000 images.
+Final assessment value achieved in testing: 82.45% calculated based on 10,000 images.
 
 
 Performance Note: This number proves that the model can be treated as a reliable basis for evaluating undergraduate research practices with regard to its generalization abilities.
